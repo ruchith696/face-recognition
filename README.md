@@ -1,4 +1,4 @@
-# face-recognition using facenet
+# Face recognition using facenet
 
 The project was to bulid face recogniton model using pretrained Facenet.
 
@@ -8,7 +8,7 @@ The project was to bulid face recogniton model using pretrained Facenet.
 3. change path in main.py of function call verify(....) 
 4. run main.py
 
-## refrences : 
+## Refrences : 
 https://www.coursera.org/learn/convolutional-neural-networks/notebook/5UMr4/face-recognition
 
 
